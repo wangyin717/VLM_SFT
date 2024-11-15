@@ -59,7 +59,7 @@
 ```
 
 ### Qwen2VL 微调
-- 进入页面后选择模型名称 Qwen2VL-7B-Instruct/Qwen2VL-72B-Instruct
+- 进入页面后选择模型名称 ```Qwen2VL-7B-Instruct/Qwen2VL-72B-Instruct```
 - 输入本地模型路径
 - 选择微调方法
 - 输入数据路径
@@ -68,7 +68,7 @@
 - 点击开始即可进入训练
 
 ### LLama3.2-vision 微调
-- 进入页面后选择模型名称 LlamaVision3.2-11B-Instruct/LlamaVision3.2-90B-Instruct
+- 进入页面后选择模型名称 ```LlamaVision3.2-11B-Instruct/LlamaVision3.2-90B-Instruct```
 - 输入本地模型路径
 - 选择微调方法
 - 输入数据路径
