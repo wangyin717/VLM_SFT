@@ -76,6 +76,6 @@
 - 根据需求设置其他参数
 - 点击开始即可进入训练
 
-
+- 参考：https://github.com/marko1616/LLaMA-Factory/tree/feat/llama3.2vl
 
 
